@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WENJIA</title>
+    <link>/</link>
+    <description>Recent content on WENJIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sommerles</title>
+      <link>/posts/2020-06-01-homework/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020-06-01-homework/</guid>
+      <description>Create a user here: https://altom.sommerles.no/information-for-parent/, before Tuesday, June 2nd.
+List:
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a blog for tracking homework, school events, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
