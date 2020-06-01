@@ -17,9 +17,9 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/2020-06-01-homework/</guid>
-      <description>Create a user here: https://altom.sommerles.no/information-for-parent/, before Tuesday, June 2nd.
+      <description>Create a user here: https://altom.sommerles.no/information-for-parent/, before Tuesday, June 2nd.
 List:
-</description>
+{&#34;columns&#34;:[{&#34;label&#34;:[&#34;&#34;],&#34;name&#34;:[&#34;_rn_&#34;],&#34;type&#34;:[&#34;&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;book&#34;],&#34;name&#34;:[1],&#34;type&#34;:[&#34;chr&#34;],&#34;align&#34;:[&#34;left&#34;]},{&#34;label&#34;:[&#34;startdate&#34;],&#34;name&#34;:[2],&#34;type&#34;:[&#34;date&#34;],&#34;align&#34;:[&#34;right&#34;]},{&#34;label&#34;:[&#34;enddate&#34;],&#34;name&#34;:[3],&#34;type&#34;:[&#34;date&#34;],&#34;align&#34;:[&#34;right&#34;]}],&#34;data&#34;:[{&#34;1&#34;:&#34;Kaptein Skerkk&#34;,&#34;2&#34;:&#34;2020-06-01&#34;,&#34;3&#34;:&#34;2020-06-01&#34;,&#34;_rn_&#34;:&#34;1&#34;},{&#34;1&#34;:&#34;Operasjon Vindkast&#34;,&#34;2&#34;:&#34;2020-06-01&#34;,&#34;3&#34;:&#34;2020-06-01&#34;,&#34;_rn_&#34;:&#34;2&#34;}],&#34;options&#34;:{&#34;columns&#34;:{&#34;min&#34;:{},&#34;max&#34;:[10]},&#34;rows&#34;:{&#34;min&#34;:[10],&#34;max&#34;:[10]},&#34;pages&#34;:{}}}</description>
     </item>
     
     <item>
